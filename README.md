@@ -1,2 +1,2 @@
 # JavaBasic
-Java Grammar Basic Example
+Java Basic Example
